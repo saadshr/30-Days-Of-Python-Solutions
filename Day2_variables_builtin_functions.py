@@ -67,3 +67,31 @@ is_light_on = True
 #  13.Declare multiple variable on one line
 first_name, last_name, country, age, is_married = 'Saad', 'Sahraoui', 'Morocco', 21, False
 #Exercises: Level 2 
+#1
+# Check the data type of all your variables
+# ============================================
+first_name='Saad'
+last_name='Sahraoui'
+country='Morocco'
+city='Tangier'
+age= 22
+is_married=False
+skills=["Python","Machine learning","Git"]
+person_info = {
+    "first_name": first_name,
+    "last_name": last_name,
+    "country": country,
+    "city": city,
+    "age": age,
+    "is_married": is_married,
+    "skills": skills
+}
+print(type(first_name))
+print(type(last_name))
+print(type(country))
+print(type(city))
+print(type(age))
+print(type(is_married))
+print(type(skills))
+print(type(person_info))
+
