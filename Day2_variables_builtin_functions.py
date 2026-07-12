@@ -94,5 +94,4 @@ print(type(age))
 print(type(is_married))
 print(type(skills))
 print(type(person_info))
-print('First name:', first_name)
-print('Last name: ', last_name)
+##
