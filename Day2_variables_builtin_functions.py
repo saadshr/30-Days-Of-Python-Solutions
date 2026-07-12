@@ -94,4 +94,16 @@ print(type(age))
 print(type(is_married))
 print(type(skills))
 print(type(person_info))
-##
+#2:Using the len() built-in function, find the length of your first name
+#Trouver la longueur du prenom :
+print(len(first_name))
+length_first_name = len(first_name)
+print('Length of first name:', length_first_name)
+#3: Comprarer la longueur du prenom et du nom de famille : 
+if len(first_name) > len(last_name):
+    print('First name is longer than last name.')
+elif len(first_name) < len(last_name):
+    print('Last name is longer than first name.')
+else:
+    print('First name and last name have the same length.')
+
