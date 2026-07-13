@@ -106,4 +106,11 @@ elif len(first_name) < len(last_name):
     print('Last name is longer than first name.')
 else:
     print('First name and last name have the same length.')
+#4: Declare 5 as num_one and 4 as num_two
+num_one = 5 
+num_two = 4 
+#5: Add num_one and num_two and assign the value to a variable total
+total = num_one + num_two 
+print('Total:', total)
+#6:
 
