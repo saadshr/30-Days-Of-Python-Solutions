@@ -46,6 +46,8 @@ m = (y2 - y1)/(x2 - x1)
 d = math.sqrt((x2 - x1)**2 +(y2 -y1)**2)
 print("the slope between (2,2) et (6,10) est : ", m)
 print("La distance euclidienne entre (2,2) et (6,10) est ", d)
+# 10 : Calculate the value of y (y = x^2 + 6x + 9). Try to use different x values and figure out at what x value y is going to be 0.
+print("strings : ")
 
 
 
