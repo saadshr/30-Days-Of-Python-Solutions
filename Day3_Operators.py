@@ -48,6 +48,7 @@ print("the slope between (2,2) et (6,10) est : ", m)
 print("La distance euclidienne entre (2,2) et (6,10) est ", d)
 # 10 : Calculate the value of y (y = x^2 + 6x + 9). Try to use different x values and figure out at what x value y is going to be 0.
 print("the slope of the equation y = x^2 + 6x + 9 is : ", 2*2 + 6*2 + 9)
+print("Day3_Operators.py")
 
 
 
