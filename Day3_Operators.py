@@ -111,14 +111,7 @@ print(type(length))
 print(type(float_value))
 print(type(string_value))
 
-#17 : Even numbers are divisible by 2 and the remainder is zero. How do you check if a number is even or not using python?
-number = int(input("enter a number : "))
-if number % 2 == 0:
-    print(number, "is an even number")
-else : 
-    print(number, "is an odd number")
-    
-
+##17.
 
 
 
